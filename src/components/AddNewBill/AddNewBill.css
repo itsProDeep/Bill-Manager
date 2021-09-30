@@ -1,0 +1,19 @@
+.add-bill {
+  display: flex;
+  justify-content: center;
+  margin: 10%;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+}
+.form Button {
+  margin-top: 20px;
+
+  width: fit-content;
+  background-color: #a3e4d7;
+}
+.form Button:hover {
+  background-color: #1abc9c;
+}

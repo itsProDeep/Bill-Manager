@@ -1,0 +1,26 @@
+th,
+td {
+  border: 1px solid black;
+  margin: 0px 0px;
+  padding: 5px 5px;
+}
+
+.table-container {
+  display: flex;
+  /* height: 93vh; */
+  margin-top: 100px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  width: 60vw;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  height: 15vh;
+  font-size: large;
+}
+.table-container Button {
+  background-color: #a3e4d7;
+}
+.table-container Button:hover {
+  background-color: #1abc9c;
+}

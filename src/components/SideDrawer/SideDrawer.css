@@ -34,8 +34,6 @@
   color: #bc199b;
 }
 
-@media (min-width: 769px) {
-  .side-drawer {
-    display: none;
-  }
+.side-drawer {
+  display: none;
 }

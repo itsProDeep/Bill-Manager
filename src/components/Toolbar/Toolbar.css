@@ -44,16 +44,16 @@
   color: #bc199b;
 }
 
-@media (max-width: 769px) {
+/* @media (max-width: 769px) {
   .toolbar_items {
     display: none;
   }
-}
-@media (min-width: 769px) {
+} */
+/* @media (min-width: 769px) {
   .toolbar_toggle-button {
     display: none;
   }
   .toolbar_logo {
     margin-left: 0;
   }
-}
+} */
